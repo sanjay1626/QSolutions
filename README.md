@@ -18,4 +18,3 @@ Page URL:https://sanjay1626.github.io/QSolutions
 Repo:https://github.com/sanjay1626/QSolutions.git
 
 
-Screenshots:
